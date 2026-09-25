@@ -14,6 +14,12 @@ Analyzed sales, product, and regional performance to identify trends and top-per
 ## Tools Used
 - SQL (MySQL) — data cleaning and querying
 - Tableau — dashboard and visualization
+- Microsoft Excel — data modeling and datasets
+- PowerPoint — presentation of findings
 
-## Dashboard Preview
-See `dashboard-screenshot.png` in this repo.
+## Files in this Repo
+- `Adventure_works_project_Tableau.twbx` — Tableau workbook
+- `Mysql_adventure_works_project.sql` — SQL queries
+- `Adventure Works Data Modelling Datasets.xlsx` — source dataset
+- `adventure works dashboard.png` — dashboard screenshot
+- `Adventure Works ppt (2).pptx` — presentation slides
